@@ -19,7 +19,8 @@
         <activity android:name=".ActivityThree" />
         <activity android:name=".ActivityTwo" />
         <activity android:name=".Activity_Four" />
-        <activity android:name=".ActivityFive"></activity>
+        <activity android:name=".ActivityFive" />
+        <activity android:name=".ActivitySix"></activity>
     </application>
 
 </manifest>
