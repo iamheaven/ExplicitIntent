@@ -13,7 +13,7 @@ public class ActivityThree extends AppCompatActivity {
         setContentView(R.layout.activity_three);
     }
     public void openWebpage(View view){
-        Intent i = new Intent(this,ActivityOne.class);
+        Intent i = new Intent(this,Activity_Four.class);
         startActivity(i);
     }
 }
